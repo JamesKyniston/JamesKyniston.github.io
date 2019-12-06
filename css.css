@@ -1,0 +1,40 @@
+body {
+ margin: 0px;
+ padding: 0px;
+ background-color: #000000;
+ color: #ffffff;
+}
+	
+nav {
+ position: fixed;
+ top: 0;
+ width: 100%;
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: #442E0C;
+ font-family: 'Lobster', cursive;
+}
+
+nav a {
+ float: left;
+ display: block;
+ color: white;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+}
+
+nav a:hover {
+ background-color: #644E2C;
+}
+	
+h1 {
+ text-align: center;
+}
+img{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
